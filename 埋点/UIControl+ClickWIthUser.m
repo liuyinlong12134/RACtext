@@ -29,8 +29,6 @@
 -(void)userclickWithAction:(SEL)action to:(nullable id)target forEvent:(nullable UIEvent *)event
 {
     
-    NSLog(@"我头上有犄角。犄角___ACTION:%@\n___TARGET:%@___\n1EVENT:%@",NSStringFromSelector(action),target,event);
-    
 }
 
 
